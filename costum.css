@@ -359,6 +359,10 @@ span{
     font-size: 30px;
 }
 
+#facebook{
+    text-decoration: none;
+}
+
 .icons:hover .card-icon{
     font-size: 50px;
 }
